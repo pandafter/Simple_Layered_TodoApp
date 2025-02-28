@@ -50,4 +50,4 @@ python main.py
 ```
 
 ## Autor 👤
-Nicolas Leyva - [@pandafter](https://github.com/pandafter)
+Nicolas Leyva | Cristian Vargas - [@pandafter](https://github.com/pandafter)
